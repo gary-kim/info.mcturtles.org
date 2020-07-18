@@ -1,0 +1,10 @@
+baseURL = "https://info.mcturtles.org/"
+languageCode = "en-us"
+title = "Minecraft: Turtle Server"
+theme = "massively"
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+[[menus.main]]
+    URL = "/about/"
+    Name = "About"
+    weight = 20
