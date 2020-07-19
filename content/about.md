@@ -6,7 +6,7 @@ featured: true
 
 *Minecraft: Turtle Server* is a whitelist enabled survival server. A creative world is also available for working on collaborative design projects.
 
-### The beginning
+### The Beginning
 
 In the fall of 2019, a fellow turtle decided to create a singleplayer world. They played with a couple of their friends on LAN and began to build and develop the world.
 
