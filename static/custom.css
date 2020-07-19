@@ -1,3 +1,11 @@
 img {
     max-width: 100%;
 }
+
+figure > img {
+    cursor: pointer;
+}
+
+div.main.image > img {
+    cursor: pointer;
+}
