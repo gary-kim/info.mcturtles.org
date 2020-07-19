@@ -1,0 +1,22 @@
+{
+  "name": "info.mcturtles.org",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "scripts/js.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gary-kim/info.mcturtles.org.git"
+  },
+  "author": "Minecraft: Turtle Server",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/gary-kim/info.mcturtles.org/issues"
+  },
+  "homepage": "https://github.com/gary-kim/info.mcturtles.org#readme",
+  "dependencies": {
+    "viewerjs": "^1.6.1"
+  }
+}

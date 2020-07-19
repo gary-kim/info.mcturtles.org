@@ -13,15 +13,16 @@ Within *Minecraft Turtle Server*'s world there are dozens of landmarks, and a mu
 
 ### Forest Town
 
-<!--insert description-->
+{{< figure src="/images/locations/forest-town.png" alt="Forest Town Image" >}}
 
 ### Homestead
 
-<!--insert description-->
+{{< figure src="/images/locations/homestead.png" alt="Homestead Image" >}}
+{{< figure src="/images/locations/homestead-1.png" alt="Homestead Image 1" >}}
 
 ### Sorry Island
 
-<!--insert description-->
+{{< figure src="/images/locations/sorry-island-1.png" alt="Sorry Island Image" >}}
 
 ### Alterac
 
@@ -37,11 +38,12 @@ Within *Minecraft Turtle Server*'s world there are dozens of landmarks, and a mu
 
 ### The Mountain Base
 
-<!--insert description-->
+{{< figure src="/images/locations/mountain-base-1.png" alt="Mountain Base Image" >}}
+{{< figure src="/images/locations/mountain-base-2.png" alt="Mountain Base Image" >}}
 
 ### The Shopping District
 
-<!--insert description-->
+{{< figure src="/images/locations/shopping-district-1.png" alt="Shopping District Image" >}}
 
 ### Founder's Abode
 
