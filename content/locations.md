@@ -1,6 +1,7 @@
 ---
 title: "Locations"
 description: Different places in Turtle World!
+image: "images/locations/background.png"
 featured: false
 ---
 
