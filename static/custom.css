@@ -9,3 +9,7 @@ figure > img {
 div.main.image > img {
     cursor: pointer;
 }
+
+.viewer-toolbar ul > li {
+    padding-left: 0px;
+}
