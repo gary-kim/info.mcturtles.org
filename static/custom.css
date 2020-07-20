@@ -13,3 +13,7 @@ div.main.image > img {
 .viewer-toolbar ul > li {
     padding-left: 0px;
 }
+
+#wrapper > .bg {
+    background-size: initial !important;
+}
