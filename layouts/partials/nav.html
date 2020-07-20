@@ -30,8 +30,9 @@
 			{{ end }}
 		{{ end }}
     </ul>
-    {{ with $data.social }}
+    
     <ul class="icons">
+        {{ with $data.social }}
         {{ with .twitter }}
         <li><a href="{{ . }}" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
         {{ end }}
@@ -59,6 +60,7 @@
         {{ with .flickr }}
         <li><a href="{{ . }}" class="icon fa-flickr"><span class="label">Flickr</span></a></li>
         {{ end }}
+        {{ end }}
+        <li style='font-family: "Source Sans Pro", Helvetica, sans-serif;'>Server: server.mcturtles.org</li>
     </ul>
-    {{ end }}
 </nav>
