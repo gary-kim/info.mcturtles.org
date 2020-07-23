@@ -1,0 +1,19 @@
+img {
+    max-width: 100%;
+}
+
+figure > img {
+    cursor: pointer;
+}
+
+div.main.image > img {
+    cursor: pointer;
+}
+
+.viewer-toolbar ul > li {
+    padding-left: 0px;
+}
+
+#wrapper > .bg {
+    background-size: initial !important;
+}
