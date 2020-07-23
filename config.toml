@@ -8,3 +8,7 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
     URL = "/about/"
     Name = "About"
     weight = 20
+[[menus.main]]
+    URL = "https://wiki.mcturtles.org/"
+    Name = "Wiki"
+    weight = 30
